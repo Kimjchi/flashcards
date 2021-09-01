@@ -1,3 +1,6 @@
+# Description
+This project is part of a codecademy course on a Fullstack enginneer path. This part is focused on React and Redux.
+
 # To Run
 
 Run `npm start` in the project root and the app will be available on port 3000.
@@ -14,13 +17,3 @@ The app's state is totally normalized, with slices for topics, quizzes, and card
 - `/new-quiz` – form to create a new quiz
 - `/quizzes` – index of all quizzes
 - `/quizzes/:quizId` – page for an individual quiz
-
-# To Test
-
-1. Create topics
-2. Create quizzes
-3. Visit the page for an individual quiz and flip the cards over
-
-# Questions
-
-Is this appropriately scoped? Does it have too many features? Too few?
